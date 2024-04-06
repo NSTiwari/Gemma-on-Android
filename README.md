@@ -9,3 +9,9 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 ## Resources:
 
+# Acknowledgment:
+<img src="https://github.com/NSTiwari/Gemma-on-Android/blob/main/google.png">
+
+This project was developed during Google's ML Developer Programs Gemma sprint. We thank the MLDP team for the opportunity.
+
+
