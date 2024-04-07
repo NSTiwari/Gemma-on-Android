@@ -7,6 +7,17 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 ## Demo Output:
 <img src="https://github.com/NSTiwari/Gemma-on-Android/blob/main/SciGemma.gif" width="300" height="600"/>
 
+
+## Steps to run:
+
+1. Clone the repository on your local machine.
+2. Open the project in Android Studio.
+3. Edit ```InferenceModel.kt``` file on **Line 44** by replacing ```YOUR_MODE_NAME.bin``` with the actual name of your model.
+4. Build the project.
+5. Install the Android app on your phone and enjoy using SciGemma. 
+
+
+
 ## Resources:
 
 1. Follow along three blog series explaining the code in detail:
