@@ -9,6 +9,21 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 ## Resources:
 
+1. Follow along three blog series explaining the code in detail:
+   
+   Part 1: Step-by-Step Dataset Creation- Unstructured to Structured: https://medium.com/p/70abdc98abf0/edit
+
+   Part 2: Fine Tune - Gemma 2b-it model: https://medium.com/p/a26246c530e7/edit
+
+   Part 3: Deploying SciGemma on Android: https://tiwarinitin1999.medium.com/5bac532c54b7
+
+2. Fine-tuned model on 🤗: https://huggingface.co/NSTiwari/fine_tuned_science_gemma2b-it
+
+3. Try our model on HFSpaces: https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it?logs=container
+
+4. Checkout demo video on YouTube:
+
+
 # Acknowledgment:
 <img src="https://github.com/NSTiwari/Gemma-on-Android/blob/main/google.png">
 
