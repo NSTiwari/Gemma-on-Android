@@ -19,7 +19,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 2. Fine-tuned model on 🤗: https://huggingface.co/NSTiwari/fine_tuned_science_gemma2b-it
 
-3. Try our model on HFSpaces: https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it?logs=container
+3. Try our model on HFSpaces: [https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it?logs=container](https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it)
 
 4. Checkout demo video on YouTube:
 
