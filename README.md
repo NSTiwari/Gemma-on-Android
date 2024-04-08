@@ -32,7 +32,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 3. Try our model on HFSpaces: [https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it?logs=container](https://huggingface.co/spaces/Aashi/NSTiwari-fine_tuned_science_gemma2b-it)
 
-4. Checkout demo video on YouTube:
+4. Checkout demo video on YouTube: https://www.youtube.com/watch?v=T_HDsVHTrwg
 
 
 # Acknowledgment:
