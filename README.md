@@ -24,7 +24,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
    
    Part 1: [Step-by-Step Dataset Creation- Unstructured to Structured](https://aashi-dutt3.medium.com/part-1-step-by-step-dataset-creation-unstructured-to-structured-70abdc98abf0)
 
-   Part 2: Fine Tune - Gemma 2b-it model: https://medium.com/p/a26246c530e7/edit
+   Part 2: [Fine Tune - Gemma 2b-it model](https://aashi-dutt3.medium.com/part-2-fine-tune-gemma-2b-it-model-a26246c530e7)
 
    Part 3: [Deploying SciGemma on Android](https://tiwarinitin1999.medium.com/part-3-deploy-gemma-on-android-5bac532c54b7)
 
