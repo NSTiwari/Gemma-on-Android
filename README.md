@@ -22,7 +22,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 1. Follow along three blog series explaining the code in detail:
    
-   Part 1: Step-by-Step Dataset Creation- Unstructured to Structured: https://medium.com/p/70abdc98abf0/edit
+   Part 1: [Step-by-Step Dataset Creation- Unstructured to Structured]([https://medium.com/p/70abdc98abf0/edit](https://aashi-dutt3.medium.com/part-1-step-by-step-dataset-creation-unstructured-to-structured-70abdc98abf0)
 
    Part 2: Fine Tune - Gemma 2b-it model: https://medium.com/p/a26246c530e7/edit
 
