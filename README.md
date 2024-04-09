@@ -26,7 +26,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
    Part 2: Fine Tune - Gemma 2b-it model: https://medium.com/p/a26246c530e7/edit
 
-   Part 3: Deploying SciGemma on Android: https://tiwarinitin1999.medium.com/5bac532c54b7
+   Part 3: [Deploying SciGemma on Android](https://tiwarinitin1999.medium.com/part-3-deploy-gemma-on-android-5bac532c54b7)
 
 2. Fine-tuned model on 🤗: https://huggingface.co/NSTiwari/fine_tuned_science_gemma2b-it
 
