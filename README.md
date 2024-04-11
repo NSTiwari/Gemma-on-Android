@@ -10,7 +10,7 @@ This project is an implementation of fine-tuning the Gemma 2b-it model on a cust
 
 ## Steps to run:
 
-1. Clone the repository on your local machine.
+1. Clone the repository on your local machine
 2. Open the project in Android Studio.
 3. Edit ```InferenceModel.kt``` file on **Line 44** by replacing ```YOUR_MODE_NAME.bin``` with the actual name of your model.
 4. Build the project.
